@@ -4,11 +4,12 @@
 
 
 ## Capturas de Tela:
-![m1](https://1drv.ms/i/s!AnSPChxVFSWIljn1b4hPRdi2ndJP?e=lluDh2)
+<div style="">
+<img src="https://api.onedrive.com/v1.0/drives/882515551C0A8F74/items/882515551C0A8F74!2873/thumbnails/0/c405x728/content/c1.c405x728.PNG?prefer=noredirect&cb=2023-08-21T20%3A01%3A54.107Z)" alt="" style="height: 400px; width:200;"/>
+<img src="https://api.onedrive.com/v1.0/drives/882515551C0A8F74/items/882515551C0A8F74!2872/thumbnails/0/c405x729/content/c2.c405x729.PNG?prefer=noredirect&cb=2023-08-21T20%3A07%3A31.327Z)" alt="" style="height: 400px; width:200px;"/>
+<img src="https://api.onedrive.com/v1.0/drives/882515551C0A8F74/items/882515551C0A8F74!2871/thumbnails/0/c405x726/content/c3.c405x726.PNG?prefer=noredirect&cb=2023-08-21T20%3A08%3A00.64Z" alt="" style="height: 400px; width:200px;"/>
+<div/>
 
-![m2](https://1drv.ms/i/s!AnSPChxVFSWIljj45ITM3mnjPO3-?e=q2pbRy)
-
-![m3](https://1drv.ms/i/s!AnSPChxVFSWIljcirTMel2nf6hYO?e=G3jQ8E)
 
 
 ## Recursos 
